@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercices2_controlleurs_tests/1.0.0": {
+        "runtime": {
+          "Exercices2_controlleurs_tests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercices2_controlleurs_tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
