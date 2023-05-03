@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "tDkXAOMtyLuluslg63a4WWgMVm5/I9JuDTJKO6hHc6A=",
+  "Hash": "dRqiVJqh049PfAn/o0DEX2G/Xw2qgtxq81PJJ75nHq4=",
   "Source": "Exercice2",
   "BasePath": "_content/Exercice2",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "Exercice2\\wwwroot",
+      "Source": "Exercice2",
+      "ContentRoot": "C:\\Users\\1645683\\Source\\Repos\\exercice2Test\\Exercice2\\wwwroot\\",
+      "BasePath": "_content/Exercice2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\1645683\\Source\\Repos\\exercice2Test\\Exercice2\\wwwroot\\files\\PC_420_2G1_HU_Infrastructure_et_reseaux_H2023_JFGauthier.pdf",
+      "SourceId": "Exercice2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\1645683\\Source\\Repos\\exercice2Test\\Exercice2\\wwwroot\\",
+      "BasePath": "_content/Exercice2",
+      "RelativePath": "files/PC_420_2G1_HU_Infrastructure_et_reseaux_H2023_JFGauthier.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\files\\PC_420_2G1_HU_Infrastructure_et_reseaux_H2023_JFGauthier.pdf"
+    }
+  ]
 }
